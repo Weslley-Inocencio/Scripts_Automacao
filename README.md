@@ -21,27 +21,6 @@ cd scripts-automacao
 
 Dependendo do script que você deseja usar, pode ser necessário instalar algumas dependências. Para isso, siga as instruções no arquivo de cada script ou na seção de instalação abaixo.
 
-### 3. Execute o script:
-
-- Para scripts Python:
-
-```bash
-python script1.py
-```
-
-- Para scripts Bash:
-
-```bash
-bash script2.sh
-```
-
-- Para scripts PowerShell:
-
-```bash
-powershell.exe -File automacao1.bat
-```
-
-
 ## ⚡ Automação
 
 Este repositório foca principalmente na automação de tarefas repetitivas, como:
