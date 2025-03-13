@@ -1,4 +1,4 @@
-# Automacao de Criacao de Usuarios e Gerenciamento de Pastas no Windows
+# Automação de Criacao de Usuarios e Gerenciamento de Pastas no Windows
 
 ## Descricao
 Este script PowerShell automatiza a criacao de usuarios locais no Windows, atribui grupos especificos e gerencia a criacao de pastas com base na unidade e setor do usuario. Ele interage com o usuario para coletar informacoes necessarias e executa as acoes de forma segura e eficiente.
