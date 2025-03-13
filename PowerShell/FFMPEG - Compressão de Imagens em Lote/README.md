@@ -1,6 +1,3 @@
-Aqui está um exemplo de como você pode criar uma documentação no formato **README.md** para o seu projeto no GitHub. Vou estruturar a documentação de forma clara e concisa, cobrindo o que seu script faz, como usá-lo, e informações adicionais.
-
-```markdown
 # Compressão de Imagens em Lote
 
 Este repositório contém um script em PowerShell que permite comprimir várias imagens no formato PNG em um diretório de entrada e salvar as versões comprimidas em um diretório de saída. O script utiliza o **FFmpeg** para realizar a compressão, ajustando a qualidade das imagens com base em um valor entre 2 e 31 (onde 2 é a melhor qualidade e 31 é a pior).
