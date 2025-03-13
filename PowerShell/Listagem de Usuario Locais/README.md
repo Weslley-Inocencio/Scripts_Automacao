@@ -36,5 +36,28 @@ O arquivo gerado será salvo na área de trabalho do usuário atual.
 ## Tratamento de Erros
 Caso ocorra um erro durante a execução, uma mensagem será exibida no terminal informando a falha.
 
-## Licença
-Este projeto está sob a [MIT License](LICENSE).
+## 🔄 Licença
+
+Este repositório está licenciado sob a [MIT License](LICENSE).
+
+## 👨‍💻 Contato
+
+Se você tiver alguma dúvida ou sugestão, pode me encontrar nas seguintes redes sociais:
+
+<div id="badges">
+  <a href = "https://github.com/Weslley-Inocencio">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href = "https://linkedin.com/in/weslley-inoc%C3%AAncio-cnse-csae-cpte-ceh-trained-830601128">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href = "mailto:weslley.inocencio@proton.me">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+---
+
+Obrigado por utilizar e contribuir para este repositório! 🙌
