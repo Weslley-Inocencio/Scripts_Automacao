@@ -13,8 +13,8 @@ Para começar a usar os scripts, siga os passos abaixo:
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/scripts-automacao.git
-cd scripts-automacao
+git clone https://github.com/Weslley-Inocencio/Scripts_Automacao.git
+cd Scripts_Automacao
 ```
 
 ### 2. Se necessário, instale as dependências:
@@ -45,7 +45,7 @@ Sinta-se à vontade para contribuir! Se você encontrar algum problema ou quiser
 4. Commit e envie para o seu fork:
     ```bash
     git commit -m "Adicionando nova automação"
-    git push origin minha-nova-automacao
+    git push origin Scripts_Automacao
     ```
 5. Crie um pull request para que possamos revisar as alterações.
 
