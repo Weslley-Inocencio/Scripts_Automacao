@@ -53,10 +53,28 @@ Se você deseja contribuir com este projeto, por favor, siga os seguintes passos
 3. Faça as modificações necessárias.
 4. Envie um **pull request** com uma descrição detalhada das mudanças.
 
-## Licença
+## 🔄 Licença
 
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório está licenciado sob a [MIT License](LICENSE).
 
-```
+## 👨‍💻 Contato
 
-Essa estrutura de documentação explica claramente o que o script faz, como configurá-lo e como usá-lo. Você pode adaptar a seção de **Licença** caso o projeto tenha uma licença específica.
+Se você tiver alguma dúvida ou sugestão, pode me encontrar nas seguintes redes sociais:
+
+<div id="badges">
+  <a href = "https://github.com/Weslley-Inocencio">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href = "https://linkedin.com/in/weslley-inoc%C3%AAncio-cnse-csae-cpte-ceh-trained-830601128">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href = "mailto:weslley.inocencio@proton.me">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+---
+
+Obrigado por utilizar e contribuir para este repositório! 🙌
